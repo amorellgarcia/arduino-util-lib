@@ -2,6 +2,9 @@
 
 An utility library for Arduino/Wiring.
 
+## License
+Distributed using Boost license. See LICENSE_1_0.txt
+
 ## Features
 - Array helper functions. See *util/Array.h*
 - Bit manipulation functions. See *util/bitfield.h*
